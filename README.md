@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ## My name is Ross and I am a software engineer based in Galway,Ireland 🇮🇪
+
+Rheaney26@gmail.com
 <!--
 **ross39/ross39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
